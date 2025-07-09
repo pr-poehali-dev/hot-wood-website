@@ -114,7 +114,7 @@ const Index = () => {
             <Button
               size="lg"
               variant="outline"
-              className="border-white text-white hover:bg-white hover:text-amber-900 px-8 py-4 text-lg"
+              className="border-white text-white bg-transparent hover:bg-white hover:text-amber-900 px-8 py-4 text-lg"
               onClick={() =>
                 document
                   .getElementById("gallery")
