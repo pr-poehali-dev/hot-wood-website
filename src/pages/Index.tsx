@@ -43,7 +43,11 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
-              <Icon name="Flame" className="h-8 w-8 text-orange-600" />
+              <img
+                src="https://cdn.poehali.dev/files/c03c99a3-d82d-45ce-bea0-420357458803.JPG"
+                alt="Hot Wood Logo"
+                className="h-10 w-auto"
+              />
               <span className="text-2xl font-bold text-amber-900"></span>
             </div>
             <div className="hidden md:flex space-x-8">
