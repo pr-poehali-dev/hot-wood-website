@@ -44,9 +44,7 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Icon name="Flame" className="h-8 w-8 text-orange-600" />
-              <span className="text-2xl font-bold text-amber-900">
-                HOT WOOD
-              </span>
+              <span className="text-2xl font-bold text-amber-900"></span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a
@@ -365,7 +363,8 @@ const Index = () => {
               Оставить заявку
             </h2>
             <p className="text-xl text-gray-600">
-              Получите бесплатный расчет стоимости вашей бани
+              Получите бесплатный расчет стоимости вашей бани, и получите
+              подарок!
             </p>
           </div>
 
